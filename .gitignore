@@ -1,0 +1,26 @@
+# Vivado temporary files & build outputs
+*.jou
+*.log
+*.str
+*.pb
+*.dcp
+*.rpt
+.Xil/
+superscalar_riscv/.Xil/
+superscalar_riscv/superscalar_riscv.cache/
+superscalar_riscv/superscalar_riscv.hw/
+superscalar_riscv/superscalar_riscv.ip_user_files/
+superscalar_riscv/superscalar_riscv.runs/
+superscalar_riscv/superscalar_riscv.sim/
+superscalar_riscv/superscalar_riscv.gen/
+
+# Simulation temporary files & waveforms
+*.wdb
+*.vcd
+*.fsdb
+xsim.dir/
+
+# Operating system artifacts
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
